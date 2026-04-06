@@ -1,3 +1,11 @@
+The API endpoint was tested using Postman and request/response history is stored in MongoDB Atlas.
+Results: - 
+1.)
+<img width="1372" height="792" alt="image" src="https://github.com/user-attachments/assets/fe656eed-35d3-4dbd-994d-b53a5243326b" />
+
+2.)
+<img width="1384" height="658" alt="image" src="https://github.com/user-attachments/assets/3bb62d15-af88-4795-8a15-d5798f9e8798" />
+
 # 🎓 Intucate Case Study: Backend API
 > A robust Flask-based Educational Assistant API integrated with MongoDB Atlas for dynamic prompt management and request tracking.
 
